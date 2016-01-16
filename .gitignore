@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# CMake
+tutorial/build/*
+
+# Qt
+*.pro.user

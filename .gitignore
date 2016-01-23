@@ -32,3 +32,5 @@ tutorial/build/*
 
 # Qt
 *.pro.user
+
+tutorial/src/python/.idea/*
